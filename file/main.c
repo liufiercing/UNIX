@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <string.h>
 
+
 int main( ) {
     int fd, cc;
     char buf[10] = "1zxc\n";
